@@ -28,7 +28,5 @@ public class Main {
         System.out.println(author1.hashCode());
         System.out.println(author2.hashCode());
 
-
-
     }
 }
